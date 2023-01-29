@@ -3,6 +3,7 @@
 ## 
 
 [upgrade to v2](https://docs.astro.build/en/guides/upgrade-to/v2/)
+[]()
 
 
 # Astro Starter Kit: Basics
